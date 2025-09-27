@@ -1,3 +1,12 @@
+/*
+Dakari Lanes
+Edwin Culpepper
+COMP 360
+Project 1 Lexicon
+9/24/25
+*/
+
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
